@@ -1,0 +1,49 @@
+/* a:hover { */
+    /* text-decoration: none; */
+/* } */
+/* h1:hover a{ */
+    /* color: red; */
+/* } */
+/* div:hover a{ */
+    /* color: skyblue; */
+
+/* } */
+
+
+/* a{ */
+    /* display: none; */
+/* } */
+
+/* div:hover a{ */
+   /* color: orange; */
+   /* display: inline; */
+
+
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(im/download.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+nav{
+  background-color: orangered;
+    width: 10%;
+    height:100vh;
+    margin-top: 0px;
+    padding-top: 0px;
+    text-decoration: none;
+}
+a{
+color: white;
+text-decoration: none;
+padding: 20px;
+display: block;
+font-family: CENTURY GOTHIC;
+}
+a:hover{
+    background-color: greenyellow;
+    border-radius: 14px;
+    color: black;
+}
+
